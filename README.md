@@ -6,3 +6,11 @@ First, it enables travellers to book their local tour guide. For example, if you
 the culture there. 
 Second, it provides live cultural event suggestions. For example, if you want to plan a tour on any date, our system will recommend you the cultural events happening on that day. 
 Third, it has a personalised tour recommendation system. It suggests you the city names based on your last three previous tours.
+## Technology Used :-
+1.Machine Learning for personalized recommendation system
+##Team Members:-
+1.Shiva Nath
+2.Iqbal Ansari
+3.Anshu Raja
+4.Priyam Priyadarshi
+5.Firdoush Ali
