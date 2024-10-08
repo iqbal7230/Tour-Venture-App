@@ -1,5 +1,3 @@
-##Introduction
-
 # TourVenture
 
 Welcome to **TourVenture**! Our team, **Radian Roam Ranger (RRR)**, has embarked on a mission to revolutionize the tourism ecosystem. We aim to create a platform that connects travelers with genuine local experiences and services, fosters cultural exchange, and supports tour guides.
