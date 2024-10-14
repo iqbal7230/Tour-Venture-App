@@ -25,5 +25,8 @@ Here are some snapshots of our platform in action:
 ![TourVenture Sample 2](sample/2.png)
 ![TourVenture Sample 3](sample/3.png)
 
+Tech Stack used:
+React, Tailwind, Prisma, MongoDB, NextAuth
+
 Join us in making travel more enriching and culturally immersive with **TourVenture**!
 
